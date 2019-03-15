@@ -1,5 +1,5 @@
 {
-  "name": "@douleutarasgr/angular-gettext-tools",
+  "name": "angular-gettext-tools",
   "description": "Tools for extracting/compiling angular-gettext strings.",
   "version": "2.3.14",
   "homepage": "http://angular-gettext.rocketeer.be/",
