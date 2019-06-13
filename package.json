@@ -1,7 +1,7 @@
 {
   "name": "@douleutarasgr/angular-gettext-tools",
   "description": "Tools for extracting/compiling angular-gettext strings.",
-  "version": "2.4.14",
+  "version": "2.4.15",
   "homepage": "http://angular-gettext.rocketeer.be/",
   "author": {
     "name": "Ruben Vermeersch",
@@ -44,6 +44,7 @@
     "lodash": "^4.0.0",
     "pofile": "~1.0.0",
     "typescript": "~2.3.2",
-    "typescript-eslint-parser": "^3.0.0"
+    "typescript-eslint-parser": "^22.0.0",
+    "eslint": "^5.16.0"
   }
 }
